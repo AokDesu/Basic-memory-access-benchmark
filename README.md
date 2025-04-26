@@ -1,7 +1,3 @@
-## License
-
-This project is licensed under the MIT License.
-
 # Basic Memory Access Benchmark
 
 This program is a memory access benchmark. I did this becuase I want to understand how CPU works to
